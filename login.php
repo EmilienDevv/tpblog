@@ -4,6 +4,7 @@
 	<link rel="stylesheet" href="style.css" />
 </head>
 <body>
+
 <?php
 require('config.php');
 session_start();
